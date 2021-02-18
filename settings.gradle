@@ -1,0 +1,2 @@
+rootProject.name='ProgressT'
+include ':app'
